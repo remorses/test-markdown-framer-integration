@@ -2,6 +2,7 @@
 date: 2023-02-01
 title: Example Markdown Document with Images from Unsplash
 author: Alex
+boolean: true
 description: This document demonstrates how to include images from Unsplash in a markdown file.
 ---
 
