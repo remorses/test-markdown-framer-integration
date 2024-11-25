@@ -3,7 +3,7 @@ date: 2023-01-01
 title: Code Snippets and Formatting in Markdown
 author: Morse
 boolean: false
-description: This document demonstrates how to include code snippets and various formatting options in a markdown file.
+description:  Example markdown file.
 ---
 # Code Snippets and Formatting in Markdown
 

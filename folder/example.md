@@ -4,6 +4,11 @@ title: Example Markdown Document with Images from Unsplash
 author: Alex
 boolean: true
 description: This document demonstrates how to include images from Unsplash in a markdown file.
+external-image: https://source.unsplash.com/featured/?nature
+relative-image: ./images/nature.jpg
+other-posts:
+  - folder/example.md
+  - folder/with-links.md
 ---
 
 # Example Markdown Document with Images from Unsplash
