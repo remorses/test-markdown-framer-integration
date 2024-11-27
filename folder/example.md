@@ -7,8 +7,8 @@ description: This document demonstrates how to include images from Unsplash in a
 external-image: https://source.unsplash.com/featured/?nature
 relative-image: ./images/nature.jpg
 other-posts:
-  - folder/example.md
-  - folder/with-links.md
+    - folder/example.md
+    - folder/with-links.md
 ---
 
 # Example Markdown Document with Images from Unsplash
@@ -17,24 +17,24 @@ other-posts:
 
 This is an example markdown document that includes images from Unsplash. Unsplash is a website dedicated to sharing stock photography under the Unsplash license.
 
-## Image Section
+## Markdown Formatting Examples
 
-### Beautiful Landscape
+### Bold Text
 
-![Beautiful Landscape](https://source.unsplash.com/featured/?landscape)
+You can make text **bold** by wrapping it in double asterisks.
 
-### Cityscape
+### Italic Text
 
-![Cityscape](https://source.unsplash.com/featured/?city)
+You can make text _italic_ by wrapping it in single asterisks.
 
-### Nature
+### Strikethrough Text
 
-![Nature](https://source.unsplash.com/featured/?nature)
+You can use ~~strikethrough~~ to indicate text that is no longer relevant by wrapping it in double tildes.
 
-### Technology
+### Blockquote
 
-![Technology](https://source.unsplash.com/featured/?technology)
+> This is a blockquote. It is used to highlight a quote or a piece of text.
 
-## Conclusion
+### Code Block
 
-This document demonstrates how to include images from Unsplash in a markdown file. Each image is fetched using a specific keyword to showcase different categories of images available on Unsplash.
+You can include code blocks by wrapping the code in triple backticks:
