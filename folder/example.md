@@ -6,6 +6,8 @@ boolean: true
 description: This document demonstrates how to include images from Unsplash in a markdown file.
 external-image: https://images.unsplash.com/photo-1446776811953-b23d57bd21aa
 relative-image: ./images/nature.jpg
+internal-file: ./images/nature.jpg
+external-file: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b
 other-posts:
     - folder/example.md
     - folder/with-links.md
