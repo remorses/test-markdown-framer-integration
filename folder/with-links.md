@@ -4,6 +4,7 @@ title: How to Use Links in Markdown
 author: Taylor
 boolean: true
 description: This document provides a comprehensive guide on how to create and use links in markdown files.
+external-image: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b
 ---
 
 # How to Use Links in Markdown
